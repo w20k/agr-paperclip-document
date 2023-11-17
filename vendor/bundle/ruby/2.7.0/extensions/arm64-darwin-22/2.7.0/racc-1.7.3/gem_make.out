@@ -1,0 +1,20 @@
+current directory: /Users/denis.denisov/Documents/MyProjects/RoR-projects/ekylibre/embedded_gems/paperclip-document/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+/Users/denis.denisov/.rbenv/versions/2.7.8/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/denis.denisov/Documents/MyProjects/RoR-projects/ekylibre/embedded_gems/paperclip-document/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231108-38860-14zeb0y sitelibdir\=./.gem.20231108-38860-14zeb0y clean
+
+current directory: /Users/denis.denisov/Documents/MyProjects/RoR-projects/ekylibre/embedded_gems/paperclip-document/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231108-38860-14zeb0y sitelibdir\=./.gem.20231108-38860-14zeb0y
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.2.7'
+
+current directory: /Users/denis.denisov/Documents/MyProjects/RoR-projects/ekylibre/embedded_gems/paperclip-document/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231108-38860-14zeb0y sitelibdir\=./.gem.20231108-38860-14zeb0y install
+/opt/homebrew/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20231108-38860-14zeb0y/racc
+
+current directory: /Users/denis.denisov/Documents/MyProjects/RoR-projects/ekylibre/embedded_gems/paperclip-document/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231108-38860-14zeb0y sitelibdir\=./.gem.20231108-38860-14zeb0y clean
